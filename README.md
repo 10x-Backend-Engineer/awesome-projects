@@ -51,17 +51,6 @@ This repository organizes projects by programming language to help you:
 
 ---
 
-## 📈 Progression Strategy
-
-```mermaid
-graph LR
-A[Beginner Projects] --> B[Intermediate Projects]
-B --> C[Advanced Projects]
-C --> D[Real-world SaaS]
-```
-
----
-
 ## 🤝 Contributing
 
 Want to add a project?
